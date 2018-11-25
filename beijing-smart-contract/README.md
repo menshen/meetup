@@ -1,3 +1,13 @@
-## How to join Beiing Smart Contract Meetup
+# Beijing Smart Contract Meetup
 
+
+## Join our meetup(Optional)
 https://www.meetup.com/Beijing-Smart-Contract-Meetup/
+
+## Install Metamask for CMT
+
+https://www.cybermiles.io/metamask/
+
+## Install CMT Wallet on Android/iOS
+
+https://www.cybermiles.io/cmt-wallet/
