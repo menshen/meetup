@@ -2,7 +2,7 @@
 
 ## Install Metamask for CMT
 
-https://www.cybermiles.io/metamask/
+https://www.cybermiles.io/metamask/ (https://www.cybermiles.io/metamask/)
 
 ## Install CMT Wallet on Android/iOS
 
